@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: src
+Version: 1.0.0
+Summary: Asmall example package for movie recommendation 
+Author: Radha Agarwal
+Author-email: radhaagrwal.380@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
